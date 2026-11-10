@@ -15,7 +15,7 @@ Enter your text, adjust the settings, and inspect the decoded segments or SVG co
 <br>
 
 <p align="center"><a href="https://datalog.github.io/demo/rmqr-generator/"><img
-    src="https://datalog.github.io/demo/rmqr-generator/find-joy-in-creating.svg"
+    src="https://datalog.github.io/demo/rmqr-generator/find-joy-in-creating.svg?v1"
         alt="Find joy in creating" width="640"></a></p>
 
 ## Quick start
