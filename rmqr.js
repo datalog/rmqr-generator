@@ -963,7 +963,7 @@ function rMQR( Q ) {
 		if( bg ) r.appendChild( svg( 'path', {
 
 			 'fill'			:  bg
-			,'d'			: 'M0,0V' + h + 'H' + s + 'V0H0Z'
+			,'d'			: 'M0,0V' + h + 'H' + s + 'V0Z'
 		} ) );
 
 		r.appendChild( svg( 'path', {
