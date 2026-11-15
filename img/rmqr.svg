@@ -1,0 +1,49 @@
+<svg viewBox="0 0 91 15" fill="#222" shape-rendering="crispEdges" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<style>@media(prefers-reduced-motion:reduce){.dots{display:none}}</style>
+
+<!-- https://github.com/datalog/rmqr-generator -->
+<path fill="#fff" d="M0,0V15H91V0Z"></path>
+<path transform="matrix(1,0,0,1,2,2)" d="m27,11h-5v-2h-1v2h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h1v1h2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-1h1v-2h1v-1h-3v1h1v2h-1v-2h-1v2h-1v-1h-1v1h-1v1h-1v-1h1v-1h1v-1h-1v-1h-2v1h1v1h-2v1h1v2h1v2h-1v-1h-1v1h-1v-2h1v-1h-1v1h-2v1h1v1h-1v-1h-1v1h-1v-3h1v1h1v-1h2v-3h1v-1h-1v-1h3v-1h-2v-1h-1v-1h1v1h1v-1h1v2h2v1h1v-1h-1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v2h-1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h1v1h1v-2h-1v-1h-1v-1h1v1h1v-1h1v1h-1v1h2v-2h1v1h1v2h-1v3h2v-1h1v-1h-1v-1h1v-2h-2v-1h3v3h-1v1h1v1h-1v1h1zm-10,0h-1v-1h-1v1h-1v-1h-1v1h-1v-1h1v-2h1v1h2v1h1zm-14,0h-3v-3h3zm23-1v-3h-3v3zm-24,0v-1h-1v1zm23-1h-1v-1h1zm-18-2h-7v-7h7zm-1-1v-5h-5v5zm16-1v-2h-1v2zm-17,0h-3v-3h3z"></path>
+
+<!-- countour path -->
+<g transform="matrix(1,0,0,1,32,2)" >
+<path fill="#82d" d="m27,11h-5v-2h-1v2h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h1v1h2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-1h1v-2h1v-1h-3v1h1v2h-1v-2h-1v2h-1v-1h-1v1h-1v1h-1v-1h1v-1h1v-1h-1v-1h-2v1h1v1h-2v1h1v2h1v2h-1v-1h-1v1h-1v-2h1v-1h-1v1h-2v1h1v1h-1v-1h-1v1h-1v-3h1v1h1v-1h2v-3h1v-1h-1v-1h3v-1h-2v-1h-1v-1h1v1h1v-1h1v2h2v1h1v-1h-1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v2h-1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h1v1h1v-2h-1v-1h-1v-1h1v1h1v-1h1v1h-1v1h2v-2h1v1h1v2h-1v3h2v-1h1v-1h-1v-1h1v-2h-2v-1h3v3h-1v1h1v1h-1v1h1z"></path>
+<path fill="#076" d="m17,11h-1v-1h-1v1h-1v-1h-1v1h-1v-1h1v-2h1v1h2v1h1z"></path>
+<path fill="#c15" d="m3,11h-3v-3h3z" ></path>
+<path fill="#acf" d="m26,10v-3h-3v3z"></path>
+<path fill="#fca" d="m2,10v-1h-1v1z"></path>
+<path fill="#43d" d="m25,9h-1v-1h1z"></path>
+<path fill="#172" d="m7,7h-7v-7h7z"></path>
+<path fill="#fae" d="m6,6v-5h-5v5z"></path>
+<path fill="#caf" d="m22,5v-2h-1v2z"></path>
+<path fill="#076" d="m5,5h-3v-3h3z"></path>
+</g>
+
+<!-- explanation -->
+<g transform="matrix(1,0,0,1,62,2)" fill="none" stroke-width=".35" stroke-linecap="round" stroke-linejoin="round" shape-rendering="geometricPrecision">
+<path id="contour-1" stroke="#82d" d="m27,11h-5v-2h-1v2h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h1v1h2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-1h1v-2h1v-1h-3v1h1v2h-1v-2h-1v2h-1v-1h-1v1h-1v1h-1v-1h1v-1h1v-1h-1v-1h-2v1h1v1h-2v1h1v2h1v2h-1v-1h-1v1h-1v-2h1v-1h-1v1h-2v1h1v1h-1v-1h-1v1h-1v-3h1v1h1v-1h2v-3h1v-1h-1v-1h3v-1h-2v-1h-1v-1h1v1h1v-1h1v2h2v1h1v-1h-1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v2h-1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h1v1h1v-2h-1v-1h-1v-1h1v1h1v-1h1v1h-1v1h2v-2h1v1h1v2h-1v3h2v-1h1v-1h-1v-1h1v-2h-2v-1h3v3h-1v1h1v1h-1v1h1z"></path>
+<path id="contour-2" stroke="#076" d="m17,11h-1v-1h-1v1h-1v-1h-1v1h-1v-1h1v-2h1v1h2v1h1z"></path>
+<path id="contour-3" stroke="#c15" d="m3,11h-3v-3h3z"></path>
+<path id="contour-4" stroke="#acf" d="m26,10v-3h-3v3z"></path>
+<path id="contour-5" stroke="#fca" d="m2,10v-1h-1v1z"></path>
+<path id="contour-6" stroke="#43d" d="m25,9h-1v-1h1z"></path>
+<path id="contour-7" stroke="#172" d="m7,7h-7v-7h7z"></path>
+<path id="contour-8" stroke="#fae" d="m6,6v-5h-5v5z"></path>
+<path id="contour-9" stroke="#caf" d="m22,5v-2h-1v2z"></path>
+<path id="contour-10" stroke="#076" d="m5,5h-3v-3h3z"></path>
+<g class="dots">
+<circle r=".4" fill="#fff" stroke="#82d" stroke-width=".16"><animateMotion dur="46400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-1"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#076" stroke-width=".16"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-2"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#c15" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-3"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-4"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-5"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#43d" stroke-width=".16"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-6"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#172" stroke-width=".16"><animateMotion dur="5600ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-7"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-8"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="1200ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-9"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#076" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-10"/></animateMotion></circle>
+</g>
+</g>
+
+</svg>
