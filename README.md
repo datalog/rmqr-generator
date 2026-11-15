@@ -1,3 +1,5 @@
+<a href="https://datalog.github.io/demo/rmqr-generator/"><img src="img/rmqr.svg" alt="rMQR SVG contours" width="100%"></a>
+
 # rMQR Code generator
 
 Rectangular Micro QR Code generator in pure JavaScript with compact SVG output. ISO/IEC 23941:2022. No dependencies.
@@ -13,10 +15,6 @@ Enter your text, adjust the settings, and inspect the decoded segments or SVG co
 *Use [rmqr.min.js](rmqr.min.js) for the full generator or [rmqr.light.min.js](rmqr.light.min.js) for a smaller bundle. The light build omits Kanji mode and encodes Japanese text in UTF-8. Both expose the same API.*
 
 <br>
-
-<p align="center"><a href="https://datalog.github.io/demo/rmqr-generator/"><img
-    src="https://datalog.github.io/demo/rmqr-generator/find-joy-in-creating.svg?v1"
-        alt="Find joy in creating" width="100%"></a></p>
 
 ## Quick start
 
