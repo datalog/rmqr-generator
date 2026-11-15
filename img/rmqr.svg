@@ -33,16 +33,16 @@
 <path id="contour-9" stroke="#caf" d="m22,5v-2h-1v2z"></path>
 <path id="contour-10" stroke="#076" d="m5,5h-3v-3h3z"></path>
 <g class="dots">
-<circle r=".3" fill="#fff" stroke="#82d" stroke-width=".12"><animateMotion dur="46400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-1"/></animateMotion></circle>
-<circle r=".3" fill="#fff" stroke="#076" stroke-width=".12"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-2"/></animateMotion></circle>
-<circle r=".3" fill="#fff" stroke="#c15" stroke-width=".12"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-3"/></animateMotion></circle>
-<circle r=".3" fill="#222" stroke="#fff" stroke-width=".12"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-4"/></animateMotion></circle>
-<circle r=".3" fill="#222" stroke="#fff" stroke-width=".12"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-5"/></animateMotion></circle>
-<circle r=".3" fill="#fff" stroke="#43d" stroke-width=".12"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-6"/></animateMotion></circle>
-<circle r=".3" fill="#fff" stroke="#172" stroke-width=".12"><animateMotion dur="5600ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-7"/></animateMotion></circle>
-<circle r=".3" fill="#222" stroke="#fff" stroke-width=".12"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-8"/></animateMotion></circle>
-<circle r=".3" fill="#222" stroke="#fff" stroke-width=".12"><animateMotion dur="1200ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-9"/></animateMotion></circle>
-<circle r=".3" fill="#fff" stroke="#076" stroke-width=".12"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-10"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#82d" stroke-width=".16"><animateMotion dur="46400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-1"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#076" stroke-width=".16"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-2"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#c15" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-3"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-4"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-5"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#43d" stroke-width=".16"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-6"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#172" stroke-width=".16"><animateMotion dur="5600ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-7"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-8"/></animateMotion></circle>
+<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="1200ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-9"/></animateMotion></circle>
+<circle r=".4" fill="#fff" stroke="#076" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-10"/></animateMotion></circle>
 </g>
 </g>
 
