@@ -12,7 +12,9 @@ Enter your text, adjust the settings, and inspect the decoded segments or SVG co
 
 ---
 
-*Use [rmqr.min.js](rmqr.min.js) for the full generator or [rmqr.light.min.js](rmqr.light.min.js) for a smaller bundle. The light build omits Kanji mode and encodes Japanese text in UTF-8. Both expose the same API.*
+> [!NOTE]
+> Use [rmqr.min.js](rmqr.min.js) for the full generator or [rmqr.light.min.js](rmqr.light.min.js) for a smaller bundle. The light build omits Kanji mode and encodes Japanese text in UTF-8. Both expose the same API.
+
 
 <br>
 
@@ -116,10 +118,6 @@ Seven characters with ambiguous Shift JIS mappings use Byte instead. For example
 ## SVG contours
 
 The default SVG uses **a single path that traces the outlines of the dark regions**. Shared edges disappear, straight runs become single SVG commands, and enclosed light areas stay open. The encoded matrix stays the same. Turn on **Explore SVG contours** in the demo to see the individual routes and the holes they enclose.
-
-<p align="center"><a href="https://datalog.github.io/demo/rmqr-generator/"><img
-    src="https://datalog.github.io/demo/rmqr-generator/find-joy-in-creating-dots.svg"
-        alt="Find joy in creating" width="100%"></a></p>
 
 <details>
 <summary>How contourPath builds the SVG</summary><br/>
