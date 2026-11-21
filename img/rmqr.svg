@@ -3,47 +3,70 @@
 <style>@media(prefers-reduced-motion:reduce){.dots{display:none}}</style>
 
 <!-- https://github.com/datalog/rmqr-generator -->
-<path fill="#fff" d="M0,0V15H91V0Z"></path>
-<path transform="matrix(1,0,0,1,2,2)" d="m27,11h-5v-2h-1v2h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h1v1h2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-1h1v-2h1v-1h-3v1h1v2h-1v-2h-1v2h-1v-1h-1v1h-1v1h-1v-1h1v-1h1v-1h-1v-1h-2v1h1v1h-2v1h1v2h1v2h-1v-1h-1v1h-1v-2h1v-1h-1v1h-2v1h1v1h-1v-1h-1v1h-1v-3h1v1h1v-1h2v-3h1v-1h-1v-1h3v-1h-2v-1h-1v-1h1v1h1v-1h1v2h2v1h1v-1h-1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v2h-1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h1v1h1v-2h-1v-1h-1v-1h1v1h1v-1h1v1h-1v1h2v-2h1v1h1v2h-1v3h2v-1h1v-1h-1v-1h1v-2h-2v-1h3v3h-1v1h1v1h-1v1h1zm-10,0h-1v-1h-1v1h-1v-1h-1v1h-1v-1h1v-2h1v1h2v1h1zm-14,0h-3v-3h3zm23-1v-3h-3v3zm-24,0v-1h-1v1zm23-1h-1v-1h1zm-18-2h-7v-7h7zm-1-1v-5h-5v5zm16-1v-2h-1v2zm-17,0h-3v-3h3z"></path>
+<defs>
+	<path id="c01" d="m27,11h-5v-2h-1v2h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h1v1h2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-1h1v-2h1v-1h-3v1h1v2h-1v-2h-1v2h-1v-1h-1v1h-1v1h-1v-1h1v-1h1v-1h-1v-1h-2v1h1v1h-2v1h1v2h1v2h-1v-1h-1v1h-1v-2h1v-1h-1v1h-2v1h1v1h-1v-1h-1v1h-1v-3h1v1h1v-1h2v-3h1v-1h-1v-1h3v-1h-2v-1h-1v-1h1v1h1v-1h1v2h2v1h1v-1h-1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v2h-1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h1v1h1v-2h-1v-1h-1v-1h1v1h1v-1h1v1h-1v1h2v-2h1v1h1v2h-1v3h2v-1h1v-1h-1v-1h1v-2h-2v-1h3v3h-1v1h1v1h-1v1h1z"/>
+	<path id="c02" d="m17,11h-1v-1h-1v1h-1v-1h-1v1h-1v-1h1v-2h1v1h2v1h1z"/>
+	<path id="c03" d="m3,11h-3v-3h3z"/>
+	<path id="c04" d="m26,10v-3h-3v3z"/>
+	<path id="c05" d="m2,10v-1h-1v1z"/>
+	<path id="c06" d="m25,9h-1v-1h1z"/>
+	<path id="c07" d="m7,7h-7v-7h7z"/>
+	<path id="c08" d="m6,6v-5h-5v5z"/>
+	<path id="c09" d="m22,5v-2h-1v2z"/>
+	<path id="c10" d="m5,5h-3v-3h3z"/>
+</defs>
+<path fill="#fff" d="M0,0V15H91V0Z"/>
+<g transform="matrix(1,0,0,1,2,2)">
+	<use href="#c01"/>
+	<use href="#c02"/>
+	<use href="#c03"/>
+	<use href="#c04" fill="#fff"/>
+	<use href="#c05" fill="#fff"/>
+	<use href="#c06"/>
+	<use href="#c07"/>
+	<use href="#c08" fill="#fff"/>
+	<use href="#c09" fill="#fff"/>
+	<use href="#c10"/>
+</g>
 
-<!-- countour path -->
-<g transform="matrix(1,0,0,1,32,2)" >
-<path fill="#82d" d="m27,11h-5v-2h-1v2h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h1v1h2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-1h1v-2h1v-1h-3v1h1v2h-1v-2h-1v2h-1v-1h-1v1h-1v1h-1v-1h1v-1h1v-1h-1v-1h-2v1h1v1h-2v1h1v2h1v2h-1v-1h-1v1h-1v-2h1v-1h-1v1h-2v1h1v1h-1v-1h-1v1h-1v-3h1v1h1v-1h2v-3h1v-1h-1v-1h3v-1h-2v-1h-1v-1h1v1h1v-1h1v2h2v1h1v-1h-1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v2h-1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h1v1h1v-2h-1v-1h-1v-1h1v1h1v-1h1v1h-1v1h2v-2h1v1h1v2h-1v3h2v-1h1v-1h-1v-1h1v-2h-2v-1h3v3h-1v1h1v1h-1v1h1z"></path>
-<path fill="#076" d="m17,11h-1v-1h-1v1h-1v-1h-1v1h-1v-1h1v-2h1v1h2v1h1z"></path>
-<path fill="#c15" d="m3,11h-3v-3h3z" ></path>
-<path fill="#acf" d="m26,10v-3h-3v3z"></path>
-<path fill="#fca" d="m2,10v-1h-1v1z"></path>
-<path fill="#43d" d="m25,9h-1v-1h1z"></path>
-<path fill="#172" d="m7,7h-7v-7h7z"></path>
-<path fill="#fae" d="m6,6v-5h-5v5z"></path>
-<path fill="#caf" d="m22,5v-2h-1v2z"></path>
-<path fill="#076" d="m5,5h-3v-3h3z"></path>
+<!-- Colored contours. -->
+<g transform="matrix(1,0,0,1,32,2)">
+	<use href="#c01" fill="#82d"/>
+	<use href="#c02" fill="#076"/>
+	<use href="#c03" fill="#c15"/>
+	<use href="#c04" fill="#acf"/>
+	<use href="#c05" fill="#fca"/>
+	<use href="#c06" fill="#43d"/>
+	<use href="#c07" fill="#172"/>
+	<use href="#c08" fill="#fae"/>
+	<use href="#c09" fill="#caf"/>
+	<use href="#c10" fill="#076"/>
 </g>
 
 <!-- explanation -->
 <g transform="matrix(1,0,0,1,62,2)" fill="none" stroke-width=".35" stroke-linecap="round" stroke-linejoin="round" shape-rendering="geometricPrecision">
-<path id="contour-1" stroke="#82d" d="m27,11h-5v-2h-1v2h-1v-1h-1v1h-1v-1h1v-1h-1v-1h1v-1h1v1h2v-2h-1v1h-1v-1h-1v1h-1v1h-1v-1h1v-2h1v-1h-3v1h1v2h-1v-2h-1v2h-1v-1h-1v1h-1v1h-1v-1h1v-1h1v-1h-1v-1h-2v1h1v1h-2v1h1v2h1v2h-1v-1h-1v1h-1v-2h1v-1h-1v1h-2v1h1v1h-1v-1h-1v1h-1v-3h1v1h1v-1h2v-3h1v-1h-1v-1h3v-1h-2v-1h-1v-1h1v1h1v-1h1v2h2v1h1v-1h-1v-1h-1v-1h1v1h1v-1h1v1h1v-1h1v2h-1v1h-1v1h-1v1h1v-1h1v-1h1v-1h1v1h1v1h1v-2h-1v-1h-1v-1h1v1h1v-1h1v1h-1v1h2v-2h1v1h1v2h-1v3h2v-1h1v-1h-1v-1h1v-2h-2v-1h3v3h-1v1h1v1h-1v1h1z"></path>
-<path id="contour-2" stroke="#076" d="m17,11h-1v-1h-1v1h-1v-1h-1v1h-1v-1h1v-2h1v1h2v1h1z"></path>
-<path id="contour-3" stroke="#c15" d="m3,11h-3v-3h3z"></path>
-<path id="contour-4" stroke="#acf" d="m26,10v-3h-3v3z"></path>
-<path id="contour-5" stroke="#fca" d="m2,10v-1h-1v1z"></path>
-<path id="contour-6" stroke="#43d" d="m25,9h-1v-1h1z"></path>
-<path id="contour-7" stroke="#172" d="m7,7h-7v-7h7z"></path>
-<path id="contour-8" stroke="#fae" d="m6,6v-5h-5v5z"></path>
-<path id="contour-9" stroke="#caf" d="m22,5v-2h-1v2z"></path>
-<path id="contour-10" stroke="#076" d="m5,5h-3v-3h3z"></path>
-<g class="dots">
-<circle r=".4" fill="#fff" stroke="#82d" stroke-width=".16"><animateMotion dur="46400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-1"/></animateMotion></circle>
-<circle r=".4" fill="#fff" stroke="#076" stroke-width=".16"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-2"/></animateMotion></circle>
-<circle r=".4" fill="#fff" stroke="#c15" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-3"/></animateMotion></circle>
-<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-4"/></animateMotion></circle>
-<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-5"/></animateMotion></circle>
-<circle r=".4" fill="#fff" stroke="#43d" stroke-width=".16"><animateMotion dur="800ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-6"/></animateMotion></circle>
-<circle r=".4" fill="#fff" stroke="#172" stroke-width=".16"><animateMotion dur="5600ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-7"/></animateMotion></circle>
-<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="4000ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-8"/></animateMotion></circle>
-<circle r=".4" fill="#222" stroke="#fff" stroke-width=".16"><animateMotion dur="1200ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-9"/></animateMotion></circle>
-<circle r=".4" fill="#fff" stroke="#076" stroke-width=".16"><animateMotion dur="2400ms" calcMode="paced" repeatCount="indefinite"><mpath href="#contour-10"/></animateMotion></circle>
-</g>
+	<use href="#c01" stroke="#82d"/>
+	<use href="#c02" stroke="#076"/>
+	<use href="#c03" stroke="#c15"/>
+	<use href="#c04" stroke="#acf"/>
+	<use href="#c05" stroke="#fca"/>
+	<use href="#c06" stroke="#43d"/>
+	<use href="#c07" stroke="#172"/>
+	<use href="#c08" stroke="#fae"/>
+	<use href="#c09" stroke="#caf"/>
+	<use href="#c10" stroke="#076"/>
+	<g class="dots" fill="#fff" stroke-width=".16">
+		<circle r=".4" stroke="#82d"><animateMotion dur="46.4s" repeatCount="indefinite"><mpath href="#c01"/></animateMotion></circle>
+		<circle r=".4" stroke="#076"><animateMotion dur="4s" repeatCount="indefinite"><mpath href="#c02"/></animateMotion></circle>
+		<circle r=".4" stroke="#c15"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#c03"/></animateMotion></circle>
+		<circle r=".4" fill="#222" stroke="#fff"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#c04"/></animateMotion></circle>
+		<circle r=".4" fill="#222" stroke="#fff"><animateMotion dur=".8s" repeatCount="indefinite"><mpath href="#c05"/></animateMotion></circle>
+		<circle r=".4" stroke="#43d"><animateMotion dur=".8s" repeatCount="indefinite"><mpath href="#c06"/></animateMotion></circle>
+		<circle r=".4" stroke="#172"><animateMotion dur="5.6s" repeatCount="indefinite"><mpath href="#c07"/></animateMotion></circle>
+		<circle r=".4" fill="#222" stroke="#fff"><animateMotion dur="4s" repeatCount="indefinite"><mpath href="#c08"/></animateMotion></circle>
+		<circle r=".4" fill="#222" stroke="#fff"><animateMotion dur="1.2s" repeatCount="indefinite"><mpath href="#c09"/></animateMotion></circle>
+		<circle r=".4" stroke="#076"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#c10"/></animateMotion></circle>
+	</g>
 </g>
 
 </svg>
